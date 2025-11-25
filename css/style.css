@@ -55,6 +55,11 @@ img{
     transition: .5s;
 }
 .btn:hover{
+    scale:1.2;
+    rotate:-5deg;
+    translate:10px;
+}
+.btn:hover{
     background-color: #0090aa;
 }
 /* ヘッダー
