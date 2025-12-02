@@ -99,7 +99,7 @@ img{
 /*HOME
 --------------------------------------------------*/
 .cover-home{
-    background-image: url(../images/cover-home-s.webp);
+    background-image: url(../images/cover-home-l.webp);
 }
 .about{
     max-width: 736px;
