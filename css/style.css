@@ -65,7 +65,7 @@ img{
     padding-top: .5rem;
 }
 .logo{
-    width: 210px;
+    width:210px;
 }
 .main-nav{
     display: flex;
@@ -99,11 +99,6 @@ img{
 }
 .about p{
     margin-bottom:3rem;
-}
-/*NEWS
------------------------------------------*/
-.cover-news{
-    background-image: url(../images/cover-news-s.webp);
 }
 /*フッター
 --------------------------------*/
@@ -149,9 +144,6 @@ img{
     .heading-large{
         font-size:4rem;
     }
-    .post-title{
-        font-size:2rem;
-    }
     /*ヘッダー*/
     .page-header{
         display: flex;
@@ -167,10 +159,6 @@ img{
     }
     .about{
         margin:4rem auto 0;
-    }
-    /*NEWS*/
-    .cover-news{
-        background-image: url(../images/cover-news-l.webp);
     }
     /*フッター*/
     .page-footer{background-image: url(../images/footer-l.webp);
