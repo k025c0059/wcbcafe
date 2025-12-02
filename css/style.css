@@ -33,11 +33,11 @@ img{
     font-family: 'Philosopher', sens-serif;
     font-weight: normal;
 }
-.page-title,
-.heading-medium,
-.heading-large{
+.page-title{
     font-size:3rem;
     text-align:center;
+    margin-top:2rem;
+    line-height:1.4;
 }
 .heading-large{
     font-size:3rem;
@@ -104,7 +104,7 @@ img{
 .about{
     max-width: 736px;
     padding:0 1.5rem;
-    margin:3rem auto 4;
+    margin:3rem auto 0;
 }
 .about p{
     margin-bottom:3rem;
